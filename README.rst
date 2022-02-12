@@ -18,7 +18,6 @@ Contact & Social
 The *Colour Developers* can be reached via different means:
 
 - `Email <mailto:colour-developers@colour-science.org>`__
-- `Discourse <https://colour-science.discourse.group/>`__
 - `Facebook <https://www.facebook.com/python.colour.science>`__
 - `Gitter <https://gitter.im/colour-science/colour>`__
 - `Twitter <https://twitter.com/colour_science>`__
@@ -27,6 +26,6 @@ About
 -----
 
 | **Colour - Branding** by Colour Developers
-| Copyright © 2013-2022 – Colour Developers – `colour-developers@colour-science.org <colour-developers@colour-science.org>`__
+| Copyright 2013 Colour Developers – `colour-developers@colour-science.org <colour-developers@colour-science.org>`__
 | This software is released under terms of New BSD License: https://opensource.org/licenses/BSD-3-Clause
 | `https://github.com/colour-science/colour-branding <https://github.com/colour-science/colour-branding>`__
