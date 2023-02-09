@@ -4,7 +4,7 @@ Contributors
 Colour - Branding
 -----------------
 
--   **Thomas Mansencal**, *Lead Pipeline Developer @ WetaFX*
+-   **Thomas Mansencal**, *Technology Supervisor @ Wētā FX*
 
     Project coordination, logo.
     
